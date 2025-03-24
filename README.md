@@ -1,5 +1,5 @@
-# SupeRPG
- SupeRPG (Super RPG) is a 2D Unity game with elements of turn-based RPG.
+# SuperFighter
+ SuperFighter is a 2D Unity game with elements of turn-based RPG.
   - Made in Unity Engine.
   - Turn-based RPG system (player moves first, then enemy, then player, etc.).
   - High-performant and responsive UI screens made with new UI Toolkit.
