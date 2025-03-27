@@ -1,7 +1,7 @@
 # SuperFighter - Open Source 2D Turn-Based Fighter RPG
 
 **Developer:** Lucifer  
-**Platform:** itch.io  
+**Platform:** [itch.io](https://lucifer-playz.itch.io/superfighter)  
 **Developed for:** Tech Expo by Next Tech Lab, AP  
 
 ## About the Game  
@@ -21,12 +21,14 @@ SuperFighter is an engaging turn-based RPG where players control a powerful warr
 4. Defeat enemies to progress in Story Mode.  
 
 ## Screenshots  
-![Screenshot 213](./Screenshot%20(213).png)  
-![Screenshot 214](./Screenshot%20(214).png)  
-![Screenshot 215](./Screenshot%20(215).png)  
-![Screenshot 216](./Screenshot%20(216).png)  
-![Screenshot 217](./Screenshot%20(217).png)  
-![Screenshot 218](./Screenshot%20(218).png)  
+Here are some in-game screenshots of SuperFighter:  
 
-## Download & Play  
-[🎮 Play Now on itch.io](https://lucifer-playz.itch.io/superfighter)  
+![Screenshot 213](Screenshots/Screenshot%20(213).png)  
+![Screenshot 214](Screenshots/Screenshot%20(214).png)  
+![Screenshot 215](Screenshots/Screenshot%20(215).png)  
+![Screenshot 216](Screenshots/Screenshot%20(216).png)  
+![Screenshot 217](Screenshots/Screenshot%20(217).png)  
+![Screenshot 218](Screenshots/Screenshot%20(218).png)  
+
+
+
